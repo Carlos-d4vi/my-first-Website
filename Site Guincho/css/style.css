@@ -1,0 +1,18 @@
+body{
+    background-color: hsl(0, 0%, 7%);
+}
+
+#logo{
+    margin-left: 15px;
+}
+
+div h1{
+    margin-left: 200px;
+    text-decoration: underline;
+    text-decoration-color: rgba(255, 255, 0, 0.9);
+}
+
+div p.footer-Text{
+    color: yellow;
+}
+
